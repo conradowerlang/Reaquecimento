@@ -1,4 +1,4 @@
-package redeDeBares;
+package business;
 
 public class Bar {
 
